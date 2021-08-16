@@ -3,3 +3,4 @@ Sloth
 Puppy
 kitten
 turtle
+parrot
