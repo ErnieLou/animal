@@ -1,3 +1,5 @@
 Ferret
 Sloth
 Puppy
+kitten
+turtle
